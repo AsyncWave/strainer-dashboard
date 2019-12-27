@@ -1,0 +1,9 @@
+[submodule "strainer-rest-api"]
+	path = strainer-rest-api
+	url = https://git.heroku.com/strainer-rest-api.git
+[submodule "strainer-twitter-server"]
+	path = strainer-twitter-server
+	url = https://git.heroku.com/strainer-twitter-server.git
+[submodule "strainer-webapp"]
+	path = strainer-webapp
+	url = https://github.com/AsyncWave/strainer-webapp.git
